@@ -1,3 +1,6 @@
+## 重要
+迁移
+ - E:\GJLinData\2-learn\Gitee-lin\daliy-exercise\structure
 ## labuladong
 
 - [GiteePages 地址](https://labuladong.gitee.io/algo/)
